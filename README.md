@@ -3,28 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=System.init();+PSTU+Hall+Life+%26+Meal+Tracker;Manage+Expenses+%26+Contributions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=System.init();+PSTU+Hall+Life+Tracker;Manage+Expenses+%26+Contributions" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🖥 Project Terminal Info
+### 🖥 Animated Terminal Info
 
-<table align="center" style="background-color: #0d1117;">
-  <tr>
-    <td>
-      <pre style="color: #36BCF7; font-family: monospace; font-size: 13px;">
-<b>PROJECT.INFO:</b>
---------------------------------------------
-<b>Name      :</b> pstuhalllife
-<b>Domain    :</b> <a href="https://pstuhalllife.netlify.app" target="_blank">pstuhalllife.netlify.app</a>
-<b>Type      :</b> Web Application / Meal Tracker
-<b>Status    :</b> Active & Deployed
-<b>Developer :</b> Md Nasim Babu (@nasimcodes)
-      </pre>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=800&color=00FF66&center=false&vCenter=true&width=500&lines=PROJECT+%3A+pstuhalllife;DOMAIN+%3A+pstuhalllife.netlify.app;TYPE+%3A+Web+Application+%2F+Meal+Tracker;STATUS+%3A+Active+%26+Deployed;DEVELOPER+%3A+Md+Nasim+Babu+%28%40nasimcodes%29" alt="Terminal Info Animation" />
+</p>
 
 ---
 
